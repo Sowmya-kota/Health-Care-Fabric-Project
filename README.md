@@ -1,4 +1,13 @@
 # 📊 Healthcare Admissions & Revenue Analytics
+📌 End-to-End Data Analytics Project | SQL • Power BI • Microsoft Fabric
+
+## ❓ Problem Statement
+Healthcare organizations need visibility into patient admissions, revenue trends, and operational efficiency.
+However, raw data across multiple sources makes it difficult to:
+     - Track revenue performance
+     - Identify seasonal admission trends
+     - Analyze hospital and doctor performance
+This project solves these challenges by building an end-to-end analytics solution.
 
 ## 🚀 Project Overview
 This project demonstrates an end-to-end analytics solution built using Microsoft Fabric, SQL, and Power BI to analyze healthcare admissions, revenue trends, and operational performance.
@@ -25,6 +34,15 @@ The goal is to transform raw healthcare data into actionable business insights f
 
 ---
 
+## 📊 Key Metrics
+- Total Revenue Generated
+- Total Admissions
+- Average Revenue per Patient
+- Length of Stay
+- Admission Trends (Monthly/Yearly)
+
+---
+
 ## 📈 Key Features
 - Revenue and admissions trend analysis  
 - KPI tracking (growth, variance, performance)  
@@ -40,6 +58,25 @@ The goal is to transform raw healthcare data into actionable business insights f
 - Enabled data-driven decision-making  
 
 ---
+
+## 🧭 How to Use Dashboard
+- Filter by Admission Type (Emergency, Elective, Urgent)
+- Explore trends using date slicer
+- Drill down by hospital, doctor, and patient segments
+
+---
+
+## 🗄️ Sample SQL Queries
+
+```sql
+-- Revenue by Month
+SELECT 
+    Month,
+    SUM(Billing_Amount) AS Total_Revenue
+FROM fact_admissions
+GROUP BY Month
+ORDER BY Month;
+```
 
 ## 📌 Key Learnings
 - Built scalable data models using star schema  
@@ -62,3 +99,13 @@ The goal is to transform raw healthcare data into actionable business insights f
 
 ### ⚙️ Data Pipeline (Microsoft Fabric)
 ![Pipeline](healthcare-fabric-data-pipeline.png)
+
+---
+
+## 📁 Project Structure
+- /data → dataset (or sample)
+- /images → dashboard screenshots
+- /sql → SQL queries
+- /pbix → Power BI file
+
+---
