@@ -52,7 +52,7 @@ The goal is to transform raw healthcare data into actionable business insights f
 ## 📸 Dashboard Preview
 
 ### 🧩 Data Model (Star Schema)
-![Data Model](add-image-link-here)
+![Data Model](https://github.com/Sowmya-kota/Health-Care-Fabric-Project/blob/main/data-model-star-schema.png)
 
 ### 📊 Business Overview Dashboard
 ![Dashboard](add-image-link-here)
