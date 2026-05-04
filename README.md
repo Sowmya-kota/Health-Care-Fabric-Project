@@ -58,4 +58,7 @@ The goal is to transform raw healthcare data into actionable business insights f
 ![Dashboard](healthcare-dashboard-overview-kpis.png)
 
 ### 📈 Trend Analysis
-![Trend](add-image-link-here)
+![Trend](healthcare-admissions-trend-analysis.png)
+
+### ⚙️ Data Pipeline (Microsoft Fabric)
+![Pipeline](healthcare-fabric-data-pipeline.png)
