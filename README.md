@@ -4,9 +4,10 @@
 ## ❓ Problem Statement
 Healthcare organizations need visibility into patient admissions, revenue trends, and operational efficiency.
 However, raw data across multiple sources makes it difficult to:
-     - Track revenue performance
-     - Identify seasonal admission trends
-     - Analyze hospital and doctor performance
+- Track revenue performance
+- Identify seasonal admission trends
+- Analyze hospital and doctor performance
+  
 This project solves these challenges by building an end-to-end analytics solution.
 
 ## 🚀 Project Overview
