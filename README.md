@@ -50,4 +50,12 @@ The goal is to transform raw healthcare data into actionable business insights f
 ---
 
 ## 📸 Dashboard Preview
-(Add screenshots here)
+
+### 🧩 Data Model (Star Schema)
+![Data Model](add-image-link-here)
+
+### 📊 Business Overview Dashboard
+![Dashboard](add-image-link-here)
+
+### 📈 Trend Analysis
+![Trend](add-image-link-here)
