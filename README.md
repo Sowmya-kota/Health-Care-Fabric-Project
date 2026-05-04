@@ -2,7 +2,7 @@
 📌 End-to-End Data Analytics Project | SQL • Power BI • Microsoft Fabric
 
 ## ❓ Problem Statement
-Healthcare organizations need visibility into patient admissions, revenue trends, and operational efficiency.
+This project addresses these challenges by building an end-to-end analytics solution that enables data-driven decision-making.
 However, raw data across multiple sources makes it difficult to:
 - Track revenue performance
 - Identify seasonal admission trends
