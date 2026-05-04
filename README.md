@@ -3,34 +3,34 @@ This project demonstrates an end-to-end analytics solution built using Microsoft
 The goal is to transform raw healthcare data into actionable business insights for better decision-making.
 
 🛠️ Tech Stack
-     Microsoft Fabric (Dataflows Gen2, Lakehouse)
-     SQL (Data Extraction & Transformation)
-     Power BI (Dashboard & Visualization)
-     DAX (KPI Calculations & Time Intelligence)
+     1. Microsoft Fabric (Dataflows Gen2, Lakehouse)
+     2. SQL (Data Extraction & Transformation)
+     3. Power BI (Dashboard & Visualization)
+     4. DAX (KPI Calculations & Time Intelligence)
 
 
 📂 Data Pipeline
-      Data ingestion using Fabric Dataflows
-      Storage in Lakehouse
-      Data transformation & cleaning
-      Star schema data modeling
-      Semantic model creation
-      Visualization using Power BI
+     1. Data ingestion using Fabric Dataflows
+     2. Storage in Lakehouse
+     3. Data transformation & cleaning
+     4. Star schema data modeling
+     5. Semantic model creation
+     6. Visualization using Power BI
       
 📈 Key Features
-      Revenue and admissions trend analysis
-      KPI tracking (growth, variance, performance)
-      Time-based analysis using DAX
-      Interactive dashboards with drill-down capability
-      Optimized data model for performance
+     1. Revenue and admissions trend analysis
+     2. KPI tracking (growth, variance, performance)
+     3. Time-based analysis using DAX
+     4. Interactive dashboards with drill-down capability
+     5. Optimized data model for performance
       
 💡 Business Insights
-      Identified peak admission periods and revenue-driving segments
-      Highlighted trends impacting hospital performance
+     1. Identified peak admission periods and revenue-driving segments
+     2. Highlighted trends impacting hospital performance
 
 📌 Key Learnings
-      Building scalable data models using star schema
-      Implementing end-to-end analytics workflows in Microsoft Fabric
-      Writing efficient DAX measures for business KPIs
-      Translating raw data into actionable insights
-      Enabled data-driven decision-making through interactive reports
+     1. Building scalable data models using star schema
+     2. Implementing end-to-end analytics workflows in Microsoft Fabric
+     3. Writing efficient DAX measures for business KPIs
+     4. Translating raw data into actionable insights
+     5. Enabled data-driven decision-making through interactive reports
